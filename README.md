@@ -1,5 +1,4 @@
 ## 👩🏻‍💻 SeoYurim, 서유림
-⏳ 부족함을 계속 채워가는 중...
 
 <br>
 
@@ -40,12 +39,11 @@ Here are some ideas to get you started:
 
 <br>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoorimseo&layout=compact"> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoorimseo&layout=compact">
 
 <br>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoorimseo&show_icons=true&theme=buefy) -->
 
 <!-- 백준 프로필 -->
-<!-- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle}) -->
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoorimseo)](https://solved.ac/{handle})
