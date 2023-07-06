@@ -1,7 +1,3 @@
-## 👩🏻‍💻 SeoYurim, 서유림
-
-<br>
-
 <!--
 **yoorimseo/yoorimseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
