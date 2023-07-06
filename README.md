@@ -42,8 +42,3 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoorimseo&layout=compact">
 
 <br>
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoorimseo&show_icons=true&theme=buefy) -->
-
-<!-- 백준 프로필 -->
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoorimseo)](https://solved.ac/{handle})
