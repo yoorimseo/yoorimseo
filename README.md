@@ -21,4 +21,8 @@
 </div>
 <br>
 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoorimseo&layout=compact">
+
+<div>
+  <img height=170 src="https://github-readme-stats-one-liard-37.vercel.app/api/top-langs/?username=yoorimseo&layout=compact"/>
+  <img height=170 alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=yoorimseo" width="42%" height="100%"/>
+</div>
